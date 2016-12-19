@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluralsightPrismDemo", "PluralsightPrismDemo\PluralsightPrismDemo.csproj", "{43ABC838-27E2-4B6D-BFAA-B1AD1BBDE471}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluralsightPrsimDemoProj", "PluralsightPrismDemo\Src\PluralsightPrsimDemoProj\PluralsightPrsimDemoProj.csproj", "{C72E9D2E-7918-4D23-A240-0A0069694C80}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluralsightPrismDemoProj", "PluralsightPrismDemo\Src\PluralsightPrsimDemoProj\PluralsightPrismDemoProj.csproj", "{C72E9D2E-7918-4D23-A240-0A0069694C80}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismDemoProj.Infrastructure", "PluralsightPrismDemo\Src\PrismDemoProj.Infrastructure\PrismDemoProj.Infrastructure.csproj", "{D9E4D022-76C2-4581-8873-5824D00D4F24}"
 EndProject
